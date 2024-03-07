@@ -7,7 +7,7 @@ const HomePage = () =>{
         <div>
            
         <div className="heading">
-        <h1 style={{ textAlign: 'center' }}>We Believe You Are Unique</h1>
+        <h1 style={{ textAlign: 'center' }}>We Believe You Are Different</h1>
         </div>
          
          <div className="newclass">
